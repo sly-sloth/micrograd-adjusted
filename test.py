@@ -7,7 +7,7 @@ xs = [
 ys = [1., -1., -1., 1.]
 
 
-from nn import MLP
+from micrograd_adjusted.nn import MLP
 
 n = MLP(3, [4, 4, 1])
 
