@@ -16,3 +16,4 @@ print()
 print(ys)
 
 print(n.predict(xs))
+n.draw()
